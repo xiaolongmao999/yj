@@ -1,2 +1,2 @@
-# yj
-易经
+# 易经
+# https://xiaolongmao999.github.io/yj/
